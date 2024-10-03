@@ -1,1 +1,1 @@
-# Diabetes-Predictive-Model
+This project focuses on building a machine learning model to predict the likelihood of diabetes in individuals based on the Pima Indians Diabetes dataset. The dataset includes various health indicators such as pregnancies, glucose levels, blood pressure, BMI, and others.
